@@ -28,6 +28,8 @@ Quando dá o log com + de 3, entra no vue, editor de texto no linux
 
 ->CTRL + SHIFT + DELL -> tira o histórico do google
 
+-> git branch -M main - alterando o nome da ramificação inicial - o github só funciona com main
+
 -> git remote
 
 -> git push
