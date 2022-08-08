@@ -34,7 +34,7 @@ Copiar as três linhas no novo repositório:
 
 -> git remote add origin https://github.com/octlui/primeiro-rep.git - ex. para conectar no servidor remoto
 
--> git push -u origin main - para conectar no servidor remoto e logar
+-> git push -u origin main - para conectar no servidor remoto e logar e atualizar o código
 
 -> git remote
 
