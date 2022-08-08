@@ -1,0 +1,21 @@
+-> git init
+
+-> git status
+
+-> git add . ou git add nome_arquivo.html
+
+-> git commit
+
+-> git log
+
+-> git commit -am" " - dá o add e o commit junto
+
+-> CTRL + L = dá clear na tela
+
+Quando dá o log com + de 3, entra no vue, editor de texto no linux
+
+-> Q - quit desses dois pontos
+
+-> ALT + Z = quebra linhas no html;
+
+-> Criar parágrafo antes - lorem + número de palavras = texto de preenchimento;
