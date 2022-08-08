@@ -19,3 +19,5 @@ Quando dá o log com + de 3, entra no vue, editor de texto no linux
 -> ALT + Z = quebra linhas no html;
 
 -> Criar parágrafo antes - lorem + número de palavras = texto de preenchimento;
+
+-> CTRL + B = esconde a barra lateral ou mostra
