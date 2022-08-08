@@ -28,10 +28,14 @@ Quando dá o log com + de 3, entra no vue, editor de texto no linux
 
 ->CTRL + SHIFT + DELL -> tira o histórico do google
 
--> git branch -M main - alterando o nome da ramificação inicial - o github só funciona com main
+Copiar as três linhas no novo repositório:
+
+-> git branch -M main - alterando o nome da ramificação inicial - o github só funciona com main, que é a linha principal
+
+-> git remote add origin https://github.com/octlui/primeiro-rep.git - ex. para conectar no servidor remoto
 
 -> git remote
 
--> git push
+-> git push - é enviar
 
 -> git pull
