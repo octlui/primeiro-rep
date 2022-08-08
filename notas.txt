@@ -21,3 +21,5 @@ Quando dá o log com + de 3, entra no vue, editor de texto no linux
 -> Criar parágrafo antes - lorem + número de palavras = texto de preenchimento;
 
 -> CTRL + B = esconde a barra lateral ou mostra
+
+-> No controle de código fonte, apertar +, depois escrever a msg, daí é adicionado como commit.
